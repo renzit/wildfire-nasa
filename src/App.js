@@ -22,8 +22,6 @@ function App() {
     }
 
     fetchEvents()
-
-    console.log(eventData);
   }, [])
 
   return (
